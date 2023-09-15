@@ -18,3 +18,5 @@ The prices for the carton size for the #20 naira are as follows:
 
 What the software will do: 
 It takes your order by asking what type of coster is bought, what carton quantity is bought, what size (big, medium, large) is bought and then calculates the total amount to be paid. 
+
+TO be submitted early enough
