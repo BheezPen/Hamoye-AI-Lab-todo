@@ -1,1 +1,2 @@
-this is a config file in the sub folder
+this is a config file in the sub folder.
+Just trying to understand somethings about git
